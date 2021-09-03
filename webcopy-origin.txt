@@ -1,0 +1,236 @@
+Uri: https://www.solamanders.com/
+File Name: C:\Downloaded Web Sites\www.solamanders.com\index
+Content Type: text/html
+
+Uri: https://www.solamanders.com/fonts/style.css
+File Name: C:\Downloaded Web Sites\www.solamanders.com\fonts\style.css
+Content Type: text/css
+
+Uri: https://www.solamanders.com/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.solamanders.com\apple-touch-icon.png
+Content Type: image/png
+
+Uri: https://www.solamanders.com/favicon-32x32.png
+File Name: C:\Downloaded Web Sites\www.solamanders.com\favicon-32x32.png
+Content Type: image/png
+
+Uri: https://www.solamanders.com/favicon-16x16.png
+File Name: C:\Downloaded Web Sites\www.solamanders.com\favicon-16x16.png
+Content Type: image/png
+
+Uri: https://www.solamanders.com/site.webmanifest
+File Name: C:\Downloaded Web Sites\www.solamanders.com\site.webmanifest
+Content Type: application/manifest+json
+
+Uri: https://www.solamanders.com/safari-pinned-tab.svg
+File Name: C:\Downloaded Web Sites\www.solamanders.com\safari-pinned-tab.svg
+Content Type: image/svg+xml
+
+Uri: https://www.solamanders.com/_next/static/css/a53873de8c137b21b0cb.css
+File Name: C:\Downloaded Web Sites\www.solamanders.com\_next\static\css\a53873de8c137b21b0cb.css
+Content Type: text/css
+
+Uri: https://www.solamanders.com/_next/static/css/ae8e5c45f62394e93dc5.css
+File Name: C:\Downloaded Web Sites\www.solamanders.com\_next\static\css\ae8e5c45f62394e93dc5.css
+Content Type: text/css
+
+Uri: https://www.solamanders.com/_next/static/css/89ed30acdf90b55cda21.css
+File Name: C:\Downloaded Web Sites\www.solamanders.com\_next\static\css\89ed30acdf90b55cda21.css
+Content Type: text/css
+
+Uri: https://discord.com/invite/ZSVcCHaQVC
+File Name: C:\Downloaded Web Sites\www.solamanders.com\invite\ZSVcCHaQVC.html
+Content Type: text/html
+
+Uri: https://twitter.com/SolamandersNFT
+File Name: C:\Downloaded Web Sites\www.solamanders.com\SolamandersNFT.html
+Content Type: text/html
+
+Uri: https://www.solamanders.com/_next/static/chunks/polyfills-a54b4f32bdc1ef890ddd.js
+File Name: C:\Downloaded Web Sites\www.solamanders.com\_next\static\chunks\polyfills-a54b4f32bdc1ef890ddd.js
+Content Type: application/javascript
+
+Uri: https://www.solamanders.com/js/mascott.js
+File Name: C:\Downloaded Web Sites\www.solamanders.com\js\mascott.js
+Content Type: application/javascript
+
+Uri: https://www.solamanders.com/_next/static/chunks/webpack-6cca8f10f816799d8144.js
+File Name: C:\Downloaded Web Sites\www.solamanders.com\_next\static\chunks\webpack-6cca8f10f816799d8144.js
+Content Type: application/javascript
+
+Uri: https://www.solamanders.com/_next/static/chunks/framework-895f067827ebe11ffe45.js
+File Name: C:\Downloaded Web Sites\www.solamanders.com\_next\static\chunks\framework-895f067827ebe11ffe45.js
+Content Type: application/javascript
+
+Uri: https://www.solamanders.com/_next/static/chunks/main-222191e14496d29481e0.js
+File Name: C:\Downloaded Web Sites\www.solamanders.com\_next\static\chunks\main-222191e14496d29481e0.js
+Content Type: application/javascript
+
+Uri: https://www.solamanders.com/_next/static/chunks/pages/_app-881417a009805a00abff.js
+File Name: C:\Downloaded Web Sites\www.solamanders.com\_next\static\chunks\pages\_app-881417a009805a00abff.js
+Content Type: application/javascript
+
+Uri: https://www.solamanders.com/_next/static/chunks/8015bd09-5b286b031fd2a5b36386.js
+File Name: C:\Downloaded Web Sites\www.solamanders.com\_next\static\chunks\8015bd09-5b286b031fd2a5b36386.js
+Content Type: application/javascript
+
+Uri: https://www.solamanders.com/_next/static/chunks/319-b1dd6d0e82e9becf7faa.js
+File Name: C:\Downloaded Web Sites\www.solamanders.com\_next\static\chunks\319-b1dd6d0e82e9becf7faa.js
+Content Type: application/javascript
+
+Uri: https://www.solamanders.com/_next/static/chunks/pages/index-5ceb4da563d2c35c6dd0.js
+File Name: C:\Downloaded Web Sites\www.solamanders.com\_next\static\chunks\pages\index-5ceb4da563d2c35c6dd0.js
+Content Type: application/javascript
+
+Uri: https://www.solamanders.com/_next/static/YnUsZvFpCR8m3jmHSnIj-/_buildManifest.js
+File Name: C:\Downloaded Web Sites\www.solamanders.com\_next\static\YnUsZvFpCR8m3jmHSnIj-\_buildManifest.js
+Content Type: application/javascript
+
+Uri: https://www.solamanders.com/_next/static/YnUsZvFpCR8m3jmHSnIj-/_ssgManifest.js
+File Name: C:\Downloaded Web Sites\www.solamanders.com\_next\static\YnUsZvFpCR8m3jmHSnIj-\_ssgManifest.js
+Content Type: application/javascript
+
+Uri: https://www.solamanders.com/_next/image?url=%2Fimg%2Ficons%2Fsolamanders-logo.svg&w=64&q=75
+File Name: C:\Downloaded Web Sites\www.solamanders.com\_next\solamanders-logo.svg
+Content Type: image/svg+xml
+
+Uri: https://www.solamanders.com/_next/image?url=%2Fimg%2Ficons%2Fdiscord-icon.svg&w=3840&q=75
+File Name: C:\Downloaded Web Sites\www.solamanders.com\_next\discord-icon.svg
+Content Type: image/svg+xml
+
+Uri: https://www.solamanders.com/_next/image?url=%2Fimg%2Ficons%2Ftwitter-icon.svg&w=3840&q=75
+File Name: C:\Downloaded Web Sites\www.solamanders.com\_next\twitter-icon.svg
+Content Type: image/svg+xml
+
+Uri: https://www.solamanders.com/img/backgrounds/desk.jpg
+File Name: C:\Downloaded Web Sites\www.solamanders.com\img\backgrounds\desk.jpg
+Content Type: image/jpeg
+
+Uri: https://www.solamanders.com/img/slider/newimages_0007.jpg
+File Name: C:\Downloaded Web Sites\www.solamanders.com\img\slider\newimages_0007.jpg
+Content Type: image/jpeg
+
+Uri: https://www.solamanders.com/img/slider/goldcity.jpg
+File Name: C:\Downloaded Web Sites\www.solamanders.com\img\slider\goldcity.jpg
+Content Type: image/jpeg
+
+Uri: https://www.solamanders.com/_next/image?url=%2Fimg%2Fmascott.gif&w=384&q=75
+File Name: C:\Downloaded Web Sites\www.solamanders.com\_next\mascott.gif
+Content Type: image/gif
+
+Uri: https://www.solamanders.com/img/slider/war.png
+File Name: C:\Downloaded Web Sites\www.solamanders.com\img\slider\war.png
+Content Type: image/png
+
+Uri: https://www.solamanders.com/img/slider/space.png
+File Name: C:\Downloaded Web Sites\www.solamanders.com\img\slider\space.png
+Content Type: image/png
+
+Uri: https://www.solamanders.com/img/slider/soccer.png
+File Name: C:\Downloaded Web Sites\www.solamanders.com\img\slider\soccer.png
+Content Type: image/png
+
+Uri: https://www.solamanders.com/img/slider/newimages_0280.jpg
+File Name: C:\Downloaded Web Sites\www.solamanders.com\img\slider\newimages_0280.jpg
+Content Type: image/jpeg
+
+Uri: https://www.solamanders.com/img/slider/newimages_0400.jpg
+File Name: C:\Downloaded Web Sites\www.solamanders.com\img\slider\newimages_0400.jpg
+Content Type: image/jpeg
+
+Uri: https://www.solamanders.com/img/slider/Firespots_RandomGen.png
+File Name: C:\Downloaded Web Sites\www.solamanders.com\img\slider\Firespots_RandomGen.png
+Content Type: image/png
+
+Uri: https://www.solamanders.com/img/slider/Vibin_RandomGen.png
+File Name: C:\Downloaded Web Sites\www.solamanders.com\img\slider\Vibin_RandomGen.png
+Content Type: image/png
+
+Uri: https://www.solamanders.com/_next/image?url=%2Fimg%2Ficons%2Fsolamanders-logo.svg&w=32&q=75
+File Name: C:\Downloaded Web Sites\www.solamanders.com\_next\solamanders-logo-1.svg
+Content Type: image/svg+xml
+
+Uri: https://www.solamanders.com/_next/image?url=%2Fimg%2Ficons%2Fdiscord-icon.svg&w=640&q=75
+File Name: C:\Downloaded Web Sites\www.solamanders.com\_next\discord-icon-1.svg
+Content Type: image/svg+xml
+
+Uri: https://www.solamanders.com/_next/image?url=%2Fimg%2Ficons%2Fdiscord-icon.svg&w=750&q=75
+File Name: C:\Downloaded Web Sites\www.solamanders.com\_next\discord-icon-2.svg
+Content Type: image/svg+xml
+
+Uri: https://www.solamanders.com/_next/image?url=%2Fimg%2Ficons%2Fdiscord-icon.svg&w=828&q=75
+File Name: C:\Downloaded Web Sites\www.solamanders.com\_next\discord-icon-3.svg
+Content Type: image/svg+xml
+
+Uri: https://www.solamanders.com/_next/image?url=%2Fimg%2Ficons%2Fdiscord-icon.svg&w=1080&q=75
+File Name: C:\Downloaded Web Sites\www.solamanders.com\_next\discord-icon-4.svg
+Content Type: image/svg+xml
+
+Uri: https://www.solamanders.com/_next/image?url=%2Fimg%2Ficons%2Fdiscord-icon.svg&w=1200&q=75
+File Name: C:\Downloaded Web Sites\www.solamanders.com\_next\discord-icon-5.svg
+Content Type: image/svg+xml
+
+Uri: https://www.solamanders.com/_next/image?url=%2Fimg%2Ficons%2Fdiscord-icon.svg&w=1920&q=75
+File Name: C:\Downloaded Web Sites\www.solamanders.com\_next\discord-icon-6.svg
+Content Type: image/svg+xml
+
+Uri: https://www.solamanders.com/_next/image?url=%2Fimg%2Ficons%2Fdiscord-icon.svg&w=2048&q=75
+File Name: C:\Downloaded Web Sites\www.solamanders.com\_next\discord-icon-7.svg
+Content Type: image/svg+xml
+
+Uri: https://www.solamanders.com/_next/image?url=%2Fimg%2Ficons%2Ftwitter-icon.svg&w=640&q=75
+File Name: C:\Downloaded Web Sites\www.solamanders.com\_next\twitter-icon-1.svg
+Content Type: image/svg+xml
+
+Uri: https://www.solamanders.com/_next/image?url=%2Fimg%2Ficons%2Ftwitter-icon.svg&w=750&q=75
+File Name: C:\Downloaded Web Sites\www.solamanders.com\_next\twitter-icon-2.svg
+Content Type: image/svg+xml
+
+Uri: https://www.solamanders.com/_next/image?url=%2Fimg%2Ficons%2Ftwitter-icon.svg&w=828&q=75
+File Name: C:\Downloaded Web Sites\www.solamanders.com\_next\twitter-icon-3.svg
+Content Type: image/svg+xml
+
+Uri: https://www.solamanders.com/_next/image?url=%2Fimg%2Ficons%2Ftwitter-icon.svg&w=1080&q=75
+File Name: C:\Downloaded Web Sites\www.solamanders.com\_next\twitter-icon-4.svg
+Content Type: image/svg+xml
+
+Uri: https://www.solamanders.com/_next/image?url=%2Fimg%2Ficons%2Ftwitter-icon.svg&w=1200&q=75
+File Name: C:\Downloaded Web Sites\www.solamanders.com\_next\twitter-icon-5.svg
+Content Type: image/svg+xml
+
+Uri: https://www.solamanders.com/_next/image?url=%2Fimg%2Ficons%2Ftwitter-icon.svg&w=1920&q=75
+File Name: C:\Downloaded Web Sites\www.solamanders.com\_next\twitter-icon-6.svg
+Content Type: image/svg+xml
+
+Uri: https://www.solamanders.com/_next/image?url=%2Fimg%2Ficons%2Ftwitter-icon.svg&w=2048&q=75
+File Name: C:\Downloaded Web Sites\www.solamanders.com\_next\twitter-icon-7.svg
+Content Type: image/svg+xml
+
+Uri: https://www.solamanders.com/_next/image?url=%2Fimg%2Fmascott.gif&w=256&q=75
+File Name: C:\Downloaded Web Sites\www.solamanders.com\_next\mascott-1.gif
+Content Type: image/gif
+
+Uri: https://www.solamanders.com/fonts/pixelfont.eot
+File Name: C:\Downloaded Web Sites\www.solamanders.com\fonts\pixelfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.solamanders.com/fonts/pixelfont.eot?
+File Name: C:\Downloaded Web Sites\www.solamanders.com\fonts\pixelfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.solamanders.com/fonts/pixelfont.woff2
+File Name: C:\Downloaded Web Sites\www.solamanders.com\fonts\pixelfont.woff2
+Content Type: font/woff2
+
+Uri: https://www.solamanders.com/fonts/pixelfont.woff
+File Name: C:\Downloaded Web Sites\www.solamanders.com\fonts\pixelfont.woff
+Content Type: font/woff
+
+Uri: https://www.solamanders.com/img/backgrounds/background3.jpg
+File Name: C:\Downloaded Web Sites\www.solamanders.com\img\backgrounds\background3.jpg
+Content Type: image/jpeg
+
+Uri: https://www.solamanders.com/img/tank/full.png
+File Name: C:\Downloaded Web Sites\www.solamanders.com\img\tank\full.png
+Content Type: image/png
+
